@@ -7,4 +7,4 @@
 - 💬 Ask me about yalsizhasan@gmail.com
 - 📫 How to reach me: https://www.instagram.com/hasanyalsiz/
 
-
+✧ Hasan YALSIZ ✧
