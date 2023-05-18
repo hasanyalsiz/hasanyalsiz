@@ -1,4 +1,5 @@
-### Hi I'm @hasanyalsiz
+### Hi !  I'm @hasanyalsiz
+
 - 🔭 I’m currently working on MimCode
 - 🌱 I’m currently learning HTML , CSS and JS
 - ✨ I always aim for the most functional, applicable, and readable code.
