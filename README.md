@@ -1,4 +1,4 @@
-### Hi !  I'm @hasanyalsiz
+### Hi !  I'm Hasan YALSIZ
 
 - 🔭 I’m currently working on MimCode
 - 🌱 I’m currently learning HTML , CSS and JS
@@ -7,4 +7,4 @@
 - 💬 Ask me about yalsizhasan@gmail.com
 - 📫 How to reach me: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasanyalsiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanyalsiz/) 
 
-✧ Hasan YALSIZ ✧
+
