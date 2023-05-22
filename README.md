@@ -12,6 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasanyalsiz&theme=merko&hide_border=true&border_radius=6&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hasanyalsiz&theme=merko&hide_border=true&border_radius=6&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)]
 
 
