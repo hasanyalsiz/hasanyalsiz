@@ -1,6 +1,6 @@
 ### Hi !  I'm Hasan YALSIZ
 
-- 🔭 I’m currently working at MimCode
+- 🔭 I’m currently working  MimCode Software
 - 🌱 I’m currently learning HTML , CSS and JS
 - ✨ I always aim for the most functional, applicable, and readable code.
 - ✨ Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Developer, passionate learner, and developer.
