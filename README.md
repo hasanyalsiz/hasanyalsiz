@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanyalsiz/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1104739068723609731)
 [![Twitter](https://img.shields.io/badge/Twitter-%2300ACED.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hasanyalsiz)
-[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=wm#all?compose=CllgCJftLxBbdZxQNrJKqLRXxGJflbLDptVDjCbWwlVznzBqsHSfHkfwZsvbgLkKGLgKvpNftWL)
+[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=wm#all?compose=CllgCJftLxBbdZxQNrJKqLRXxGJflbLDptVDjCbWwlVznzBqsHSfHkfwZsvbgLkKGLgKvpNftWL)
 
 
 <div align="center">
