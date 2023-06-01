@@ -1,5 +1,8 @@
 ### Hi !  I'm Hasan YALSIZ
 
+<div align="center"> <img height="150" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  /> </div>
+</div>
+
 - 🔭 I’m currently working on Software Develop
 - 🌱 I’m currently learning HTML , CSS and JS
 - ✨ I always aim for the most functional, applicable, and readable code.
