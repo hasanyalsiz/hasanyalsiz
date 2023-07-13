@@ -1,4 +1,4 @@
-### Hi !  I'm Hasan YALSIZ
+### Hi ! I'm Hasan YALSIZ
 
 <div align="center"> <img height="150" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  /> </div>
 </div>
