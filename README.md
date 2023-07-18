@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/hasanyalsiz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/hasanyalsiz/count.svg?" />
 </div>
 
 
