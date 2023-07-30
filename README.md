@@ -1,7 +1,7 @@
 ### Hi ! I'm Hasan YALSIZ
 
-<div align="center"> <img height="150" src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  /> </div>
-</div>
+
+
 
 - 🔭 I’m currently working on MimCode
 - 🌱 I’m currently learning HTML , CSS and JS.
@@ -9,6 +9,17 @@
 - ✨ Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Developer, passionate learner, and developer.
 
 - ✨  yalsizhasan@gmail.com
+
+  <!--  Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  -->
+
+<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
+   
+   <br />  
+   
+   <br/> 
+    
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Hasan+YALSIZ;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/hasan/)
+   <br />
 
 <div align="center">
   
