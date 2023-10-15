@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on MimCode
-- 🌱 I’m currently learning HTML , CSS, JS and React.
+- 🌱 My Expertise is HTML , CSS, JS and React.
 - ✨ I always aim for the most functional, applicable, and readable code.
 - ✨ Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Developer, passionate learner, and developer.
 
@@ -54,6 +54,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-%23007ACC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23007ACC.svg?style=for-the-badge&logo=redux&logoColor=white)
+
 
 
 
