@@ -7,7 +7,7 @@
 - ✨ I always aim for the most functional, applicable, and readable code.
 - ✨ Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Developer, passionate learner, and developer.
 
-- ✨  [Personel WebSite](https://hasanyalsiz.vercel.app/)
+- ✨  [Personel WebSite](https://hasanyalsiz.netlify.app/)
 
   <!--  Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  -->
 
