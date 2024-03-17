@@ -2,7 +2,7 @@
 <br>
 
 
-- 🔭 I’m currently working on MimCode
+- 🔭 I’m currently working on MimCode and JuniusTech
 - 🌱 My Expertise is HTML , CSS, JS,TypeScript and **React**.
 - ✨ I always aim for the most functional, applicable and readable code.
 - ✨ Blended with the experience I have gathered and the teamwork spirit I have grown I am progressing more confidently than ever and being a self-driven Software Developer, passionate learner, and developer.
